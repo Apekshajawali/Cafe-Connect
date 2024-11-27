@@ -1,7 +1,7 @@
 
 # ☕ Cafe Network Setup Simulation
 
-Welcome to the **Cafe Network Setup Simulation**! This project is a simulated network setup designed in **Cisco Packet Tracer** for a cafe environment, equipped with both wired and wireless connections for seamless customer service and efficient network management. 
+Welcome to the **Cafe Network Setup Simulation**!! This project is a simulated network setup designed in **Cisco Packet Tracer** for a cafe environment, equipped with both wired and wireless connections for seamless customer service and efficient network management. 
 
 ## 📜 Project Overview
 
